@@ -2,7 +2,7 @@
 
 #### Sobre mim 🙋‍♀️
 
-<span style="font-size: 15px;">Estou cursando Análise e Desenvolvimento de Sistemas através do SENAC, meu curso possui 5 semestres e atualmente estou no 2° semestre. Neste momento tenho foco em estudar sobre tratamento de dados e computação em nuvem, a área de Infraestrutura em TI me desperta bastante interesse.</span>
+<span style="font-size: 15px;">Estou cursando Análise e Desenvolvimento de Sistemas através do SENAC, meu curso possui 5 semestres e atualmente estou no 3° semestre. Neste momento tenho foco em estudar sobre tratamento de dados e computação em nuvem, a área de Infraestrutura em TI me desperta bastante interesse.</span>
 
 #### Minhas redes 👩‍💻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=aabff0&color=0e1217)](https://www.linkedin.com/in/yasmin-brand%C3%A3o-dos-santos-ab78b9218/)
